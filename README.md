@@ -3,7 +3,7 @@
 
 👉 “OAuth was built for humans authorizing apps. AI agents don’t have a security layer today — they can act unpredictably. We’re building a ‘security broker for AI agents’ that gives humans real-time control and visibility into agent actions.”
 
-## In AI we call it Human in the loop situation,  [ Read more about our Human in the loop in AI](https://www.ibm.com/think/topics/human-in-the-loop)
+## In AI, we call it Human in the Loop situation,  [ Read more about Human in the loop (HITL) in AI](https://www.ibm.com/think/topics/human-in-the-loop)
 
 ### 1. **Product Concept**
 
