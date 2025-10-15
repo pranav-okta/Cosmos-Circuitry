@@ -1,5 +1,8 @@
-audit.db
-.venv
-__pycache__/
-*.pyc
-*.pyo
+node_modules/
+dist/
+*.js
+*.d.ts
+*.map
+.DS_Store
+*.log
+.env
